@@ -1,7 +1,7 @@
 {
   "name": "examplenodeapp",
-  "description": "Example Express Node.js app"
-  "author": "Jeff G"
+  "description": "Example Express Node.js app",
+  "author": "Jeff G",
   "dependencies": {
     "express": "4.x"
   },
