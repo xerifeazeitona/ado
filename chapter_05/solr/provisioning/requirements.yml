@@ -1,0 +1,4 @@
+---
+roles:
+  - geerlingguy.java
+  - geerlingguy.solr
